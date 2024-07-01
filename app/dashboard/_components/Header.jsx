@@ -16,7 +16,7 @@ function Header() {
     <div className='flex p-4 items-center justify-between bg-secondary shadow-sm'>
       <span className='flex items-center'>
       <Image src={'/logo.png'} width={40} height={40} alt='logo' />
-      <p className='font-bold text-primary'>JATIN AIMOCK</p>
+      <p className='font-bold  text-primary'>AIMOCK</p>
       </span>
       
         <ul className='hidden md:flex gap-6'>
