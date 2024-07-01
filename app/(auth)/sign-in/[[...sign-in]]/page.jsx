@@ -33,7 +33,7 @@ export default function Page() {
         </h2>
 
         <p className="mt-4 leading-relaxed text-white/90">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Let's put my knowledge to the test in a simulated competition with another AI.
         </p>
       </div>
     </section>
